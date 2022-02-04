@@ -1,0 +1,5 @@
+@media screen and (max-width: 410px) {
+    .container{
+        max-width: 90% !important;
+    }
+}
