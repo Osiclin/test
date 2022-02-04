@@ -1,4 +1,6 @@
-# test
+## test
+
+run npm install to install all dependencies
 
 # server
 run npm start 
